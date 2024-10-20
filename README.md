@@ -1,2 +1,5 @@
-# Vape V4
-A performance enhancing tampermonkey script designed to improve the user experience!
+# Rise
+
+## Rise is a cheat designed for the online web game Miniblox.io
+
+### Forked from [Vape V4 by 7granddad](https://github.com/7GrandDadPGN/VapeForMiniblox)
