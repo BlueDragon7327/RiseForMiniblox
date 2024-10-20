@@ -1,9 +1,9 @@
 // ==UserScript==
-// @name         Vape V4
-// @namespace    http://7granddadpgn.github.io
-// @version      2024-07-29
-// @description  A browser script made to give enhancements on miniblox.io
-// @author       7GrandDad
+// @name         Rise
+// @namespace    rise.bluedragon.dev
+// @version      6.1.30
+// @description  Rise is a cheat designed for the online web game Miniblox.io Forked from Vape V4 by 7granddad
+// @author       BlueDragon
 // @match        https://miniblox.io/*
 // @icon         https://miniblox.io/favicon.png
 // @grant        GM_getValue
